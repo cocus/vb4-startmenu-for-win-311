@@ -1,5 +1,5 @@
-# vb6-metroslider
-VB6 UserControl: MetroSlider, mimicks the sliders (scrollbars) used in Win10 Metro apps. Works on DWM-framed windows.
+# vb4-startmenu-for-win-311
+This is a work in progress project to emulate the start menu of Windows 9x inside Win 3.x. More or less like calmira, but with a more user friendly approach.
 
 # Status
 It's still in pre-alpha, but at least it can load the items from a .grp file, with its corresponding icons and text and list them in a form. 
